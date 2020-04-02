@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="223441d3-906b-4006-b02a-38959c43cc56" name="Default Changelist" comment="" />
+    <list default="true" id="223441d3-906b-4006-b02a-38959c43cc56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Translitration project dev/Flask_Indic translitration app" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -78,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585826472172</updated>
       <workItem from="1585826478037" duration="291000" />
-      <workItem from="1585826916949" duration="3744000" />
+      <workItem from="1585826916949" duration="5014000" />
     </task>
     <servers />
   </component>
